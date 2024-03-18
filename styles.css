@@ -1,0 +1,31 @@
+body{
+    background-color: darkgray;
+    text-align: center;
+}
+form{
+    background-color: cornflowerblue;
+    padding:25px;
+    color: aliceblue;
+    box-shadow: 0 2px 4px 0 rgba(29, 26, 26, 0.4); ;
+}
+input:focus {
+    border: 2px solid rgba(228, 10, 10, 0.4);
+    background-color: rgb(229, 241, 243);
+}
+input{
+    color: rgb(14, 13, 13);
+    width:50%;
+    padding: 5px 14px;
+    border:2px solid rgb(2, 22, 36)
+}
+.panel {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+form p{
+    margin-bottom: 5px;
+}
+button{
+ 
+}
